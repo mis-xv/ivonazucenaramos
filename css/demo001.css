@@ -249,7 +249,7 @@ z-index: 99px;
 .simply-section {
   background: transparent;
 
-  width: 180px;
+  width: 170px;
   height: 90px;
   margin: 60 60px;
   margin:10px;
@@ -266,13 +266,13 @@ z-index: 99px;
 .simply-amount {
   display: block;
   font-size: 25px;
-  color:#9b9b9b;
+  color:#000;
   font-weight: ;
   font-family: 'Noto Serif Khojki', serif;
 }
 
 .simply-word {
-  color:#9b9b9b;
+  color:#000;
   
   font-size: 15px;
   font-family: 'Cormorant Garamond', serif;

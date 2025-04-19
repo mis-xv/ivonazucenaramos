@@ -37,6 +37,24 @@ window.sr = ScrollReveal();
 
 
 	}); 
+	sr.reveal('.btnWhatsNovios', {
+		duration: 2500, //tiempo
+		delay:1000,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
+
+
+
+	});
+	sr.reveal('.textoasistencia', {
+		duration: 2500, //tiempo
+		delay:500,
+		origin: 'top', //origen
+		distance: '50px', //distancia
+		
+
+	});
 
 
 	sr.reveal('.nuestraBoda', {
